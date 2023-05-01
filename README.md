@@ -3,7 +3,7 @@ Mobile development using Flutter and Dart <br>
 Flutter is a cross-platform development framework that allows the creation of a single
 piece of code that can be deployed across several platforms (Android, iOS, and
 Desktop). <br>
-The "Dart" programming language is similar to Kotlin and Swift, and it may be trans-compiled into JavaScript code.
+Dart is programming language quite similar to Kotlin and Swift, and it may be trans-compiled into JavaScript code.
 ## How to remove the debug flag from your application?
 This is something really simple, just use the following command:
 ```dart
