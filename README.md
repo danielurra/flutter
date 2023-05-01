@@ -1,6 +1,6 @@
 # flutter
 Mobile development using Flutter and Dart
-# How to remove the debug flag from your application?
+# How to remove the debug flag from your application
 This is something really simple, just use the following command:
 ```dart
 debugShowCheckedModeBanner: false,
