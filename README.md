@@ -1,7 +1,6 @@
 # Flutter - Dart
 Mobile development using Flutter and Dart <br>
-Dart programming is similar to other programming languages, such as
-Kotlin and Swift, and it may be trans-compiled into JavaScript code.
+Dart programming is similar to Kotlin and Swift, and it may be trans-compiled into JavaScript code.
 ## How to remove the debug flag from your application?
 This is something really simple, just use the following command:
 ```dart
