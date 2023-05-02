@@ -11,6 +11,8 @@ Quite a simple app that allows you to add and track tasks, a fun way to learn Fl
 <p align="center">
 ![flutter-todo-app](https://user-images.githubusercontent.com/51704179/235729853-7a31f9f7-7952-4690-8047-6c0f8e547344.gif)
 </p>
+<img src="https://user-images.githubusercontent.com/51704179/235729853-7a31f9f7-7952-4690-8047-6c0f8e547344.gif"/>
+
 ## How to remove the debug flag from your application?
 This is something really simple, just use the following command:
 ```dart
