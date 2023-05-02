@@ -1,4 +1,4 @@
-# Flutter - Dart
+# Flutter takes inspiration from React
 Mobile development using Flutter and Dart <br>
 * Flutter is a cross-platform development framework that allows the creation of a single
 piece of code that can be deployed across several platforms (Android, iOS, and
