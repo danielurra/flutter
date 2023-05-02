@@ -12,3 +12,6 @@ debugShowCheckedModeBanner: false,
 ```
 The **debugShowCheckedModeBanner** accepts  a Boolean value to indicate whether the notification should be shown.
 ![flutter-remove-banner](https://user-images.githubusercontent.com/51704179/235453780-3c43561f-e375-48a8-9272-d243e70dad88.gif)
+## First App created - ToDo list
+Quite a simple app that allow you to add and track tasks, a fun way to learn Flutter/Dart basics.
+![flutter-todo-app](https://user-images.githubusercontent.com/51704179/235729853-7a31f9f7-7952-4690-8047-6c0f8e547344.gif)
