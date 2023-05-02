@@ -8,8 +8,6 @@ in 2011, Dart is quite similar to Kotlin and Swift, and it may be trans-compiled
 ## First App created - ToDo list
 
 Quite a simple app that allows you to add and track tasks, a fun way to learn Flutter/Dart basics.
-![flutter-todo-app](https://user-images.githubusercontent.com/51704179/235729853-7a31f9f7-7952-4690-8047-6c0f8e547344.gif)
-Hello!
 <img src="https://user-images.githubusercontent.com/51704179/235729853-7a31f9f7-7952-4690-8047-6c0f8e547344.gif"/>
 
 ## How to remove the debug flag from your application?
