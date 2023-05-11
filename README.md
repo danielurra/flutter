@@ -144,7 +144,7 @@ Future<void> cartel(BuildContext context) async {
                     TextFormField(
                       controller: tituloController,
                       decoration:
-                          InputDecoration(hintText: "Type the task's name"),
+                          InputDecoration(hintText: "Type here the task's name"),
                     ),
                     TextFormField(
                       controller: descripcionController,
@@ -215,6 +215,6 @@ class _CustomSwitchState extends State<CustomSwitch> {
         });
   }
 }
- ```
+```
   
   
