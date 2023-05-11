@@ -17,8 +17,33 @@ debugShowCheckedModeBanner: false,
 ```
 The **debugShowCheckedModeBanner** accepts  a Boolean value to indicate whether the notification should be shown.
 ![flutter-remove-banner](https://user-images.githubusercontent.com/51704179/235453780-3c43561f-e375-48a8-9272-d243e70dad88.gif)
+
+## Grab the code - main.dart
+  ```dart
+  import 'package:flutter/material.dart';
+import 'package:todo_list_final/home.dart';
+
+void main() {
+  runApp(const MainApp());
+}
+
+class MainApp extends StatelessWidget {
+  const MainApp({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      initialRoute: "home",
+      routes: {
+        "home": (context) => Home(),
+      },
+    );
+  }
+}
+  ```
   
-## Grab the code
+## Grab the code home.dart
   ```bash
   import 'package:flutter/material.dart';
 
@@ -191,28 +216,5 @@ class _CustomSwitchState extends State<CustomSwitch> {
   }
 }
  ```
-  ## Grab the code - main.dart
-  ```dart
-  import 'package:flutter/material.dart';
-import 'package:todo_list_final/home.dart';
-
-void main() {
-  runApp(const MainApp());
-}
-
-class MainApp extends StatelessWidget {
-  const MainApp({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      debugShowCheckedModeBanner: false,
-      initialRoute: "home",
-      routes: {
-        "home": (context) => Home(),
-      },
-    );
-  }
-}
-  ```
+  
   
