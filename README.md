@@ -44,7 +44,7 @@ class MainApp extends StatelessWidget {
   ```
   
 ## Grab the code home.dart
-  ```bash
+  ```dart
   import 'package:flutter/material.dart';
 
 List tareas = [
